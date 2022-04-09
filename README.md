@@ -8,7 +8,7 @@ The perceptron is a single neuron model with the sign activation function as dep
 <img width="661" alt="ThePerceptronImage" src="https://user-images.githubusercontent.com/98184249/162345625-c72d7082-7dc9-4b55-9ac2-5eef5a300820.png">
 
 
-### Dataset 
+## Dataset 
 
 The dataset used is palmerpenguins which contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
 
